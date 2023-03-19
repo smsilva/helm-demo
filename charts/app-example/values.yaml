@@ -1,0 +1,3 @@
+config:
+  seconds: 17
+  timeout: 360

@@ -1,0 +1,3 @@
+Configurações: 
+  - Segundos: {{ .Values.config.seconds | quote }}
+  - Timeout: {{ .Values.config.timeout | quote }}
